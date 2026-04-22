@@ -12,4 +12,3 @@ stun.bilibili.com
 
 # === CN games with overseas CDN ===
 # (add as you discover them)
-stun.bethesda.net
