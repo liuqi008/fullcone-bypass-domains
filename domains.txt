@@ -9,6 +9,7 @@
 stun.miwifi.com
 stun.qq.com
 stun.bilibili.com
+stun.hitv.com
 
 # === CN games with overseas CDN ===
 # (add as you discover them)
