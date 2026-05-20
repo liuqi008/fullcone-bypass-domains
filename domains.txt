@@ -7,8 +7,11 @@
 
 # === STUN servers (for NAT type detection) ===
 stun.miwifi.com
-stun.qq.com
 stun.bilibili.com
+39.107.142.158
+stun.qq.com
+stun.douyucdn.cn
+stun1.douyucdn.cn
 stun.hitv.com
 
 # === CN games with overseas CDN ===
